@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\b_ship\b_ship\obj\Debug\net6.0-windows\b_ship.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\b_ship\b_ship\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Administrator\source\repos\b_ship\b_ship\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Administrator\source\repos\b_ship\b_ship\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\source\repos\b_ship\b_ship\obj\Debug\net6.0-windows\b_ship_MarkupCompile.cache
+C:\Users\Administrator\source\repos\b_ship\b_ship\obj\Debug\net6.0-windows\b_ship_MarkupCompile.lref
